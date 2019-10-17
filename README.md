@@ -1,5 +1,7 @@
-<center><img src="/https://raw.githubusercontent.com/boltflarewp/Awesome-WooCommerce/master/woocommerce-logo.png" alt="WooCommerce Logo"
+<center><img src="https://raw.githubusercontent.com/boltflarewp/Awesome-WooCommerce/master/woocommerce-logo.png" alt="WooCommerce Logo"
 	title="WooCommerce Logo" width="400" height="100" /></center>
+	
+![WooCommerce Logo](https://raw.githubusercontent.com/boltflarewp/Awesome-WooCommerce/master/woocommerce-logo.png)	
 # Awesome WooCommerce
 Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
