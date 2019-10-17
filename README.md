@@ -1,3 +1,4 @@
+![WooCommerce Logo](https://raw.githubusercontent.com/boltflarewp/Awesome-WooCommerce/master/woocommerce-logo.png)	
 # Awesome WooCommerce
 Plugins and code snippets for your [WooCommerce](https://woocommerce.com) store.
 
